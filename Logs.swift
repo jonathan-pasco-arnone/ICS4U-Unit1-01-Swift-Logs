@@ -9,6 +9,8 @@
 
 // Variables.
 var numberOfLogs = Double(0)
+
+// Constants
 let weight = Double(20)
 /* Swiftlint would not let me make the
 variable "MAX_WEIGHT" because of the "_".
